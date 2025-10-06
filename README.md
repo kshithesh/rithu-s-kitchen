@@ -1,26 +1,11 @@
 
-  # Ritu's Kitchen
+  # Modern Bakery Website Design
 
-Welcome to the official repository for the Ritu's Kitchen website! This is a modern, responsive website for a bakery, designed to showcase delicious products and provide an easy way for customers to place orders.
+  This is a code bundle for Modern Bakery Website Design. The original project is available at https://www.figma.com/design/3JdAb24rJCq86ZufeOhuWA/Modern-Bakery-Website-Design.
 
-## About
+  ## Running the code
 
-Ritu's Kitchen is a bakery that specializes in a variety of baked goods, from custom cakes to fresh pastries. This website provides an online presence for the bakery, allowing customers to browse the menu, learn more about the business, and place orders online.
+  Run `npm i` to install the dependencies.
 
-## Running the code
-
-To get the development environment running:
-
-1.  Install the dependencies:
-    ```bash
-    npm install
-    ```
-
-2.  Start the development server:
-    ```bash
-    npm run dev
-    ```
-
-This will start a local development server. You can view the website by navigating to the URL provided in the terminal.
-
+  Run `npm run dev` to start the development server.
   
