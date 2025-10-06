@@ -25,7 +25,7 @@ export function Cart({ cartItems, onUpdateQuantity, onRemoveItem, onClearCart }:
   const itemCount = cartItems.reduce((sum, item) => sum + item.quantity, 0);
 
   const handleWhatsAppOrder = () => {
-    const phoneNumber = "+91 9949002388"; // Replace with actual WhatsApp business number
+    const phoneNumber = "+919949002388"; // Replace with actual WhatsApp business number
     
     let message = "Hi! I'd like to place an order for the following items:\n\n";
     
