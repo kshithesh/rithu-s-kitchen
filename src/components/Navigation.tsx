@@ -10,7 +10,7 @@ interface NavigationProps {
 
 export function Navigation({ currentPage, onNavigate, cartItemCount }: NavigationProps) {
   const handleWhatsAppClick = () => {
-    const phoneNumber = "+1234567890"; // Replace with actual WhatsApp business number
+    const phoneNumber = "+919949002388"; // Replace with actual WhatsApp business number
     const message = "Hi! I'd like to know more about Rithu's Kitchen products.";
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
